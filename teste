@@ -34,28 +34,7 @@ int main() {
     printf("digite quantos pontos turistico tem na cidade\n");
     scanf("%d", &turisticos);
     
-    printf("saopaulo\n");
-    
-    printf("digite o codigo da cidade 2\n");
-    scanf("%d", &codigo);
-    
-    printf("digite o nome da cidade 2\n");
-    scanf("%s", &cidade);
-
-    printf("digite a populaçao da cidade 2\n");
-    scanf("%f", &populaçao);
-
-    printf("digite a area em k² da cidade 2\n");
-    scanf("%f", &km²);
-
-    printf("digite o pib da cidade 2\n");
-    scanf("%f", &pib);
-
-    printf("digite quantos pontos turistico tem na cidade 2\n");
-    scanf("%d", &turisticos);
-    
-
-    return 0;
+   return 0;
 
 
   }
